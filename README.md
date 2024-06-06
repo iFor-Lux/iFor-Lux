@@ -17,3 +17,8 @@
 🚩 IP : Quien sabe xD 
 🤔 Soy de Perú <b>Causa</b> XD <a href="https://ifor-lux.github.io/Sensi.html/" target="_blank">Luxury Sensi</a>
 </pre>
+
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif"
+       alt="dino" /></a>
+</div>
