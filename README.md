@@ -19,8 +19,10 @@
 </pre>
 
 
+
+📅 Lo que se
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Perú
 
 💬 Programming Languages: 
 JavaScript               10 hrs 30 mins      ████████████████░░░░░░░░░   64.22% 
