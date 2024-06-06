@@ -12,5 +12,5 @@
 🌱 ++ Base Data
 🌟 20 años
 🚩 IP : Quien sabe xD 
-🤔 Peru <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 Soy de Perú <b>Causa</b> XD<a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
