@@ -20,7 +20,7 @@
 
 
 
-📅 Lo que se
+📅 Lo que aprendi en estos 3 años:
 ```text
 ⌚︎ Time Zone: Perú
 
