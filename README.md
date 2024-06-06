@@ -5,6 +5,6 @@
 </div>
 
 <div align="center">
-  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://cdn.discordapp.com/attachments/1223522165241151558/1248282279512510525/Luxury_REgedit.png?ex=666318f7&is=6661c777&hm=c9169dd90827cddcf70355e05b9c9a1b1bd8e4688b99bc6afb802df60977bf56&)"
+  <img  src="https://raw.githubusercontent.com/iFor-Lux/imagen/main/Luxury%20REgedit.png?token=GHSAT0AAAAAACSYB3MMCWYAZJR4ZKN4CVOWZTBZBQA"
        alt="imagen" /></a>
 </div>
