@@ -18,6 +18,20 @@
 🤔 Soy de Perú <b>Causa</b> XD <a href="https://ifor-lux.github.io/Sensi.html/" target="_blank">Luxury Sensi</a>
 </pre>
 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               10 hrs 30 mins      ████████████████░░░░░░░░░   64.22% 
+TypeScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+C++                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+C#                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
+
+```
+
+
 <div align="center">
   <img  src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif"
        alt="dino" /></a>
