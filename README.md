@@ -12,5 +12,5 @@
 🌱 ++ Base Data
 🌟 20 años
 🚩 IP : Quien sabe xD 
-🤔 Soy de Perú <b>Causa</b> XD <a href="[https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing](https://ifor-lux.github.io/Sensi.html/)" target="_blank">Sensi</a>
+🤔 Soy de Perú <b>Causa</b> XD <a href="https://ifor-lux.github.io/Sensi.html/" target="_blank">Sensi</a>
 </pre>
