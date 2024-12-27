@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/iFor-Lux/imagen/main/Luxury%20REgedit.png?token=GHSAT0AAAAAACSYB3MMCWYAZJR4ZKN4CVOWZTBZBQA"
+  <img  src="https://raw.githubusercontent.com/iFor-Lux/imagen/refs/heads/main/Luxury%20REgedit.png"
        alt="imagen" /></a>
 </div>
 
