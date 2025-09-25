@@ -9,18 +9,18 @@
 
 <pre align="center">
 💻 Soy Luxury
-📚 3 Años dev
+📚 4 Años dev
 📝 Ing Software
 🔭 COD
 🌱 ++ Base Data
-🌟 20 años
+🌟 21 años
 🚩 IP : Quien sabe xD 
 🤔 Soy de Perú <b>Causa</b> XD <a href="https://ifor-lux.github.io/Sensi/" target="_blank">Luxury Sensi</a>
 </pre>
 
 
 
-📅 Lo que aprendi en estos 3 años:
+📅 Lo que aprendi en estos 4 años: (FALTA ACTUALIZAR)
 ```text
 ⌚︎ Time Zone: Perú
 
