@@ -13,8 +13,8 @@
 📝 Ing Software
 🔭 COD
 🌱 ++ Base Data
-🌟 21 años
-🚩 IP : Quien sabe xD 
+🌟 22 años
+🚩 IP : <$
 🤔 Soy de Perú <b>Causa</b> XD <a href="https://ifor-lux.github.io/Sensi/" target="_blank">Luxury Sensi</a>
 </pre>
 
